@@ -5,12 +5,19 @@
 <br/>
 
 >## About
-Project of a social-linking website developed in React and styled-components for a dentist office. 
+Project of a social-linking website developed in React and styled-components for a dentist office.<br />
+This is based on a previous website I made for my personal links, and that can be found here: [MyLinks - Repo](https://github.com/giselle-ferreira/my-links) <br/>
+On this one I was able to develop a more reusable, scalable and organized structure, which is the goal of React.
 
 <br/>
 
 >## Deploy
 https://drarosana-links.vercel.app/
+
+<br/>
+
+>## Layout
+<img src="https://i.postimg.cc/Pfg1kcdp/drarosana-links.gif"/>
 
 <br/>
 
