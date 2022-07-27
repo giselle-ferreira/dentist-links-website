@@ -10,7 +10,7 @@ export const Header = () => {
         <h2>Dra. Rosana Poggio</h2>
       </section>
       
-      <img src={profilePicture} alt="Foto de perfil da profissional" />
+      <img src={profilePicture} alt="Foto de perfil da profissional" width="60" />
       <span></span>
     </Container>
   )
