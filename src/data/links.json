@@ -1,0 +1,22 @@
+[
+    {
+        "social": "instagram",
+        "link": "https://www.instagram.com/drarosanapoggio/",
+        "img": "/media/instagram.svg"
+    },
+    {
+        "social": "whatsapp",
+        "link": "https://whats.link/falecomdrarosana",
+        "img": "/media/whatsapp.svg"
+    },
+    {
+        "social": "email",
+        "link": "mailto:drarosana.orto@gmail.com",
+        "img": "/media/email.svg"
+    },
+    {
+        "social": "location",
+        "link": "https://goo.gl/maps/kMR9fkuB3dFLGWKn9",
+        "img": "/media/location.svg"
+    }
+]

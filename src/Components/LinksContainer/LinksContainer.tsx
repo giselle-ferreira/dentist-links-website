@@ -1,12 +1,23 @@
-
+import { Container, LinkBox } from "./style"
+import data from '../../data/links.json'
 
 export const LinksContainer = () => {
   return (
-    <div>
-        <div>WhatsAppLink</div>
-        <div>InstagramLink</div>
-        <div>EmailLink</div>
-        <div>LocationLink</div>
-    </div>
+      <Container>
+      {data.map((element) => {
+          return(
+              <LinkBox
+                href={element.link}
+                target="_blank"
+                >
+                <img
+                src={element.img}
+                alt={`Ícone do ${element.social}`}
+                title={`Clique para ir para o ${element.social}`}
+                />
+              </LinkBox>        
+          )
+      })}
+      </Container>
   )
 }
