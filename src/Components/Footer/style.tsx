@@ -5,7 +5,7 @@ export const Container = styled.div`
     justify-content: center;
     align-items: center;
     font-size: .8em;
-    margin: 64px auto;
+    margin: 4.2em auto;
     color: #cbcbcb;
 
     img {
