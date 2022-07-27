@@ -1,0 +1,19 @@
+import styled from "styled-components";
+
+export const Container = styled.div`
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: .8em;
+    margin: 64px auto;
+    color: #cbcbcb;
+
+    img {
+        padding: 0 .4em;
+    }
+
+    a {
+        padding-left: .4em;
+        text-decoration: underline;
+    }
+`
