@@ -2,12 +2,15 @@
 <h1 align="center">Social-Linking Website for a Dentist</h1>
 </p>
 
-<i>Status: Under Construction 🚧</i>
-
 <br/>
 
 >## About
 Project of a social-linking website developed in React and styled-components for a dentist office. 
+
+<br/>
+
+>## Deploy
+https://drarosana-links.vercel.app/
 
 <br/>
 
