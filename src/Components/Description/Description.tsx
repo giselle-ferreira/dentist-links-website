@@ -6,7 +6,7 @@ export const Description = () => {
     <Container>
         <section>
             <span><FaMapPin size={14} /> Lauro de Freitas - BA - Brasil</span>
-            <span>Ortodontista | Aparelho fixo | Autoligado</span>            
+            <span>Ortodontista - Invisalign - Aparelhos Ortodônticos</span>            
         </section>
         
         <p>Transformo sorrisos com aparelhos!</p>
