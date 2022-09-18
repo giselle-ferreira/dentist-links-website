@@ -15,6 +15,7 @@ export const LinksContainer = () => {
                 alt={`Ícone do ${element.social}`}
                 title={`Clique para ir para o ${element.social}`}
                 />
+                <span>{element.description}</span>
               </LinkBox>        
           )
       })}

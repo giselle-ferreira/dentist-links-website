@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    height: 10em;
+    height: 9em;
     background-color: #414042;
     display: flex;
     justify-content: center;
@@ -19,16 +19,18 @@ export const Container = styled.div`
         bottom: 3.45em;
 
         h1 {                       
-            font-size: 1.5em;
-            font-weight: 700;
+            font-size: 1.2em;
+            font-weight: 400;
             text-align: center;
+            margin-bottom: 0;
         }
 
         h2 {
-            font-size: .9em;
-            font-weight: 400;
+            font-size: 1em;
+            font-weight: 700;
             text-align: center;
             color: #cbcbcb;
+            margin-bottom: .4em;
         }
     }
 

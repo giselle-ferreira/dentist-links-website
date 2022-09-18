@@ -2,21 +2,37 @@
     {
         "social": "instagram",
         "link": "https://www.instagram.com/drarosanapoggio/",
+        "description": "Instagram",
         "img": "/media/instagram.svg"
     },
     {
         "social": "whatsapp",
         "link": "https://whats.link/falecomdrarosana",
+        "description": "WhatsApp",
         "img": "/media/whatsapp.svg"
     },
     {
         "social": "email",
         "link": "mailto:drarosana.orto@gmail.com",
-        "img": "/media/email.svg"
+        "description": "E-mail",
+        "img": "/media/email2.svg"
     },
     {
-        "social": "location",
+        "social": "smile",
+        "link": "https://providerbio-latam.invisalign.com/sv/c22334479",
+        "description": "Simular sorriso",
+        "img": "/media/invisalign.svg"
+    },
+    {
+        "social": "endereço",
         "link": "https://goo.gl/maps/kMR9fkuB3dFLGWKn9",
+        "description": "Shopping Estrada do Coco",
+        "img": "/media/location.svg"
+    },
+    {
+        "social": "endereço",
+        "link": "https://goo.gl/maps/TfdscCL47BQGUYfv9",
+        "description": "Clínica de Vilas C. Odontomédico",
         "img": "/media/location.svg"
     }
 ]
