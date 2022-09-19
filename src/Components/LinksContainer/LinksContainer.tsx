@@ -9,6 +9,7 @@ export const LinksContainer = () => {
               <LinkBox
                 href={element.link}
                 target="_blank"
+                key={element.link}
                 >
                 <img
                 src={element.img}

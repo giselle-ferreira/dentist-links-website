@@ -1,6 +1,6 @@
 import { FaLink } from 'react-icons/fa'
 import { Container } from './style'
-import profilePicture from '/media/rosana-profile.png'
+import profilePicture from '/media/profile-picture.jpg'
 
 export const Header = () => {
   return (
