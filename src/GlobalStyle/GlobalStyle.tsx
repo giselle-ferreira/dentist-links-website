@@ -8,13 +8,9 @@ export const GlobalStyle = createGlobalStyle`
         font-family: 'Nunito', sans-serif;        
     }
 
-    html {
-        background-size: cover;
-    }
-
     body {     
         height: 100%;
-        background: linear-gradient(360deg, #000000 0%, #414042 53.13%) center center;
+        background: linear-gradient(360deg, #000000 0%, #414042 53.13%) no-repeat;
         color: #fff;
         background-size: cover;
     }
