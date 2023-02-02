@@ -13,6 +13,10 @@ export const GlobalStyle = createGlobalStyle`
         background: linear-gradient(360deg, #000000 0%, #414042 53.13%) no-repeat;
         color: #fff;
         background-size: cover;
+
+        @media(min-width: 400px){
+            height: 100vh; 
+        }
     }
 
     a {
