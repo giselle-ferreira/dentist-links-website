@@ -2,22 +2,18 @@ import { Description } from "./Components/Description/Description"
 import { Footer } from "./Components/Footer/Footer"
 import { Header } from "./Components/Header/Header"
 import { LinksContainer } from "./Components/LinksContainer/LinksContainer"
-import styled from 'styled-components'
+
 
 function App() {
 
   return (
-    <Container>
+    <div>
       <Header />
       <Description />
       <LinksContainer />
       <Footer />
-    </Container>
+    </div>
   )
 }
-
-const Container = styled.div`
-  height: 100%;
-`
 
 export default App
