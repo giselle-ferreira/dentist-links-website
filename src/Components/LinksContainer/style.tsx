@@ -6,7 +6,8 @@ export const Container = styled.div`
     align-items: center;
     gap: 1.3em;
     margin: 2.5em auto;
-    flex-wrap: wrap;    
+    flex-wrap: wrap;   
+    max-width: 30em; 
 `;
 
 export const LinkBox = styled.a`
@@ -16,7 +17,6 @@ export const LinkBox = styled.a`
     align-items: center;
     width: 8.45em;
     height: 8.45em;
-    /* border: 1px solid rgba(172, 162, 138, 1); */
     border-top: 1px solid rgba(172, 162, 138, 1); 
     border-radius: 1.3em;
     box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.25);
