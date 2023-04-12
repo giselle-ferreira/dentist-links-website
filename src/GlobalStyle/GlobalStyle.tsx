@@ -15,6 +15,12 @@ export const GlobalStyle = createGlobalStyle`
         background-size: cover;
     }
 
+    @media (min-width: 450px) {
+        body {     
+            height: 100vh;
+        }
+      }
+
     a {
         text-decoration: none;
         color: inherit;
